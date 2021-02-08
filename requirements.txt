@@ -1,2 +1,2 @@
-sqlite-utils
+csvs-to-sqlite
 datasette
