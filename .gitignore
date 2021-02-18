@@ -1,3 +1,5 @@
 .envrc
 .python-version
 secrets.yml
+
+.DS_Store
